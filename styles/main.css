@@ -1,7 +1,11 @@
 * {
   font-family: 'Noto Sans';
   box-sizing: border-box;
-  border: 1px black solid;
+  /* border: 1px black solid; */
+}
+
+html {
+  font-size: 20px;
 }
 
 body {
@@ -57,11 +61,10 @@ header h3 {
 
 .panel-container {
   display: flex;
-  height: 400px;
+  height: auto;
   width: auto;
   justify-content: space-evenly;
   align-items: center;
-  
 }
 
 .panel-img {
@@ -70,7 +73,7 @@ header h3 {
   height: 90%;
 }
 .panel-item {
-  height: 350px;
+  height: 50vw;
   width: 30%;
 }
 
@@ -105,9 +108,23 @@ header h3 {
 /* Media Queries! */
 
 
-/* Mobile */
+/* Tablet and smaller */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
+
+  html {
+    font-size: 14px;
+  }
+
+  header h1 {
+    font-size: 1.9em;
+    letter-spacing: .1em;
+  }
+  
+  header h3 {
+    font-size: 1.3em;
+  }
+
   .panel-container {
   padding: 5vw 0;
   display: flex;
@@ -117,16 +134,16 @@ header h3 {
   justify-content: space-evenly;
   align-items: center;
   gap: 10px;
-  
 }
 
 .panel-img {
   object-fit: cover;
   width: 100%;
   height: 90%;
+  object-position: bottom 10%;
 }
 .panel-item {
-  height: 350px;
+  height: 110vw;
   width: 80%;
 }
 
@@ -134,7 +151,32 @@ header h3 {
   width: auto;
   height: 10%;
   text-align: center;
-  padding-top: 4px;
+  padding-top: 10px;
   
 }
+}
+
+/* Mobile (420px) and smaller */
+
+@media only screen and (max-width: 420px) {
+  html {
+    font-size: 12px;
+  }
+
+  header h1 {
+    padding: 0px 10px 0px 10px;
+    font-size: 2em;
+    letter-spacing: .15em;
+  }
+  
+  header h3 {
+    padding: 0px 10px 0px 10px;
+    font-size: 1.3em;
+    letter-spacing: .1em;
+  }
+
+  .nav-item {
+    font-size: .9em;
+  }
+
 }
