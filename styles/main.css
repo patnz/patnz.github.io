@@ -72,3 +72,13 @@ header h3 {
   text-align: center;
   
 }
+
+/* All styles below this line relate to the main section (text) */
+
+
+.main-section {
+  padding: 5px 20px;
+  text-align: justify;
+  word-spacing: .2em;
+  line-height: 1.6em;
+}
