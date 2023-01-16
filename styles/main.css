@@ -14,16 +14,19 @@ header {
 }
 
 header h1 {
-  font-size: 3
+  font-size: 2.2em;
   letter-spacing: 5px;
 }
 
 header h3 {
+  font-size: 1.2em;
   letter-spacing: 4px;
 }
 
+/* header-text style is to vertically center the two elements within the header */
+
 .header-text {
-  margin: 2px;
+  margin: 2px; 
 }
 
 .header-container {
