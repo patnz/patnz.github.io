@@ -1,4 +1,30 @@
 * {
+  font-family: 'Noto Sans';
   box-sizing: border-box;
-  border: 2px black solid;
+  border: 1px black solid;
+}
+
+header {
+  margin: auto;
+  width: auto;
+  height: 200px;
+  text-align: center;
+}
+
+header h1 {
+  letter-spacing: 5px;
+}
+
+header h3 {
+  letter-spacing: 4px;
+}
+
+.header-text {
+  margin: 2px;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
