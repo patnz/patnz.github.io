@@ -15,12 +15,12 @@ header {
 
 header h1 {
   font-size: 2.2em;
-  letter-spacing: 5px;
+  letter-spacing: .15em;
 }
 
 header h3 {
   font-size: 1.2em;
-  letter-spacing: 4px;
+  letter-spacing: .1em;
 }
 
 /* header-text style is to vertically center the two elements within the header */
@@ -75,6 +75,10 @@ header h3 {
 
 /* All styles below this line relate to the main section (text) */
 
+.main-section-title {
+  padding-left: 15px;
+  letter-spacing: .1em;
+}
 
 .main-section {
   padding: 5px 20px;
