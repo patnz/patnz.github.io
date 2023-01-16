@@ -1,7 +1,7 @@
 * {
   font-family: 'Noto Sans';
   box-sizing: border-box;
-  /* border: 1px black solid; */
+  border: 1px black solid;
 }
 
 /* All styles below this line relate to the header */
@@ -67,4 +67,5 @@ header h3 {
   width: auto;
   height: 10%;
   text-align: center;
+  
 }
