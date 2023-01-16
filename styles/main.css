@@ -4,6 +4,11 @@
   border: 1px black solid;
 }
 
+body {
+  background-color: #FFFFFF;
+  color: #22162B;
+}
+
 /* All styles below this line relate to the header */
 
 header {
@@ -14,11 +19,13 @@ header {
 }
 
 header h1 {
+  color: #D17A22;
   font-size: 2.2em;
   letter-spacing: .15em;
 }
 
 header h3 {
+  color: #22162B;
   font-size: 1.2em;
   letter-spacing: .1em;
 }
@@ -39,7 +46,8 @@ header h3 {
 
 .nav-container {
   width: auto;
-  height: 30px;
+  height: auto;
+  padding: 5px;
   display: flex;
   justify-content: space-evenly;
 
@@ -70,18 +78,21 @@ header h3 {
   width: auto;
   height: 10%;
   text-align: center;
+  padding-top: 4px;
   
 }
 
 /* All styles below this line relate to the main section (text) */
 
 .main-section-title {
+  color: #D17A22;
   padding-left: 15px;
   letter-spacing: .1em;
 }
 
 .main-section {
-  padding: 5px 20px;
+  color: #22162B;
+  padding: .5vh 4vw;
   text-align: justify;
   word-spacing: .2em;
   line-height: 1.6em;
