@@ -123,7 +123,7 @@ header h3 {
 
 .blog-title {
   font-size: 1.5em;
-  border-bottom: 1px #E7AA6C solid;
+  /* border-bottom: 1px grey solid; */
   padding: 5vw 20vw 5vw 20vw;
   color: #6193ad;
   text-align: center;
@@ -137,6 +137,8 @@ header h3 {
 }
 
 .main-section {
+  border-bottom: 1px solid grey;
+  margin: 7vw 0vw 2vw 0vw;
   color: #22162B;
   padding: 0vw 4vw 1vw 4vw;
   text-align: justify;
@@ -145,7 +147,10 @@ header h3 {
 }
 
 .main-section:first-of-type {
-  padding-top: 3vw;
+  padding: 0vw 9vw 4vw 9vw;
+  font-size: 1.2em;
+  line-height: 40px;
+  color: #22162B;
 }
 
 .code-snippet-container {
