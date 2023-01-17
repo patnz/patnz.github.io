@@ -149,6 +149,14 @@ header h3 {
   padding-top: 3vw;
 }
 
+.code-snippet {
+  margin: 4vw auto;
+  border: 1px solid grey;
+  box-shadow: 2px 3px grey;
+  height: auto;
+  width: 75vw;
+}
+
 
 
 
