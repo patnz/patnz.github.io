@@ -51,7 +51,7 @@ header h3 {
 .nav-container {
   width: auto;
   height: auto;
-  padding: 5px;
+  padding: 5px 5px 50px 5px;
   display: flex;
   justify-content: space-evenly;
 
