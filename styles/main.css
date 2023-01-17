@@ -53,8 +53,17 @@ header h3 {
   height: auto;
   padding: 5px 5px 50px 5px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 5vw;
+}
 
+.nav-item {
+  color: #5B7553;
+  border-bottom: 1px solid #D17A22;
+}
+
+.nav-item:hover {
+  font-weight: bold;
 }
 
 /* All styles below this line relate to the main panel (images) */
