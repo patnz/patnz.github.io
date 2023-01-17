@@ -121,6 +121,16 @@ header h3 {
 /*                      */
 /*                     */
 
+.blog-title {
+  font-size: 1.5em;
+  border-bottom: 2px #E7AA6C solid;
+  border-top: 2px #E7AA6C solid;
+  padding: 5vw 20vw 5vw 20vw;
+  color: #6193ad;
+  text-align: center;
+  letter-spacing: .1em;
+}
+
 .main-section-title {
   color: #D17A22;
   padding-left: 15px;
