@@ -125,6 +125,7 @@ header h3 {
   font-size: 1.5em;
   border-bottom: 2px #E7AA6C solid;
   border-top: 2px #E7AA6C solid;
+  border: 1px solid grey;
   padding: 5vw 20vw 5vw 20vw;
   color: #6193ad;
   text-align: center;
@@ -147,6 +148,11 @@ header h3 {
 
 .main-section:first-of-type {
   padding-top: 3vw;
+}
+
+.code-snippet-container {
+  display: grid;
+  place-items: center;
 }
 
 .code-snippet {
