@@ -24,17 +24,37 @@
     <main>
         <div class="blog-title">What does it mean to display <i>inline</i> vs <i>inline-block</i>?</div>
         <section class="main-section">
-          <p>When we are writing content for a website, we wrap text in various tags to label it and give it different significance. Each element appears within a rectangular box and has its own display properties by default. Understanding the way that different tags behave when a web page is loaded is very useful when it comes to designing the layout of your website.</p>
+          <p>When we are writing content for a website, we wrap text in various tags to label it and give it different significance. Each element appears within a rectangular box and has its own display properties by default. (These rectangular boxes can be made visible by changing the value of the border property of each element). Understanding the way that different tags behave when a web page is loaded is very useful when it comes to designing the layout of your website.</p>
         </section>
 
         <section class="main-section">
-          <h2 class="main-section-title">title for section</h2>
-          <p>some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah</p>
+          <h2 class="main-section-title"><i>Inline</i> elements</h2>
+          <p>Inline elements like &lt;a&gt;, &lt;span&gt;, &lt;img&gt; and &lt;button&gt; have a number of default properties to be aware of when considering using them in your website:</p>
+            <ul>
+            <li>They take up as much space as needed</li>
+            <li>They can be placed side by side, in the natural flow of the web page</li>
+            <li>You can not set the width and height of these elements</li>
+          </ul>
+          <p>
+            This default property value would appear in CSS like this:
+          </p>
+          --Image here--
+            
         </section>
           
         <section class="main-section">
-          <h2 class="main-section-title">title for section</h2>
-          <p>some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah some text some text and more of some of that texty text stuff yeah</p>
+          <h2 class="main-section-title"><i>Block-level</i> elements</h2>
+          <p>Block-level elements like &lt;div&gt;, &lt;p&gt;, &lt;h1&gt;, &lt;ul&gt; and &lt;footer&gt; have default properties of their own and also have their own limitations. These properties include:</p>
+          <ul>
+            <li>They will start on a new line</li>
+            <li>By default, they will take up the full width of the page</li>
+            <li>You can set the width and height of these elements</li>
+          </ul>
+          <p>
+            This default property value would appear in CSS like this:
+          </p>
+          --Image here--
+          <p>Keep in mind that these are the default properties of these elements. If we want to manipulate these elements, we are able to assign different values to each element’s display property which will change the way they behave.</p>
         </section>
     </main>
     
