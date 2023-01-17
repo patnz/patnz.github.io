@@ -139,10 +139,14 @@ header h3 {
 
 .main-section {
   color: #22162B;
-  padding: 5vw 4vw .5vh 4vw;
+  padding: 0vw 4vw 1vw 4vw;
   text-align: justify;
   word-spacing: .2em;
   line-height: 1.6em;
+}
+
+.main-section:first-of-type {
+  padding-top: 3vw;
 }
 
 
