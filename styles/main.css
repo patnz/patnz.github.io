@@ -26,6 +26,10 @@ a {
   text-decoration: none;
 }
 
+a:visited {
+  color: inherit;
+}
+
 /* All styles below this line relate to the header */
 /*                        */
 /*                       */
@@ -88,8 +92,10 @@ header h3 {
 }
 
 .nav-item:hover {
-  font-size: 1.1em;
+  color: #D17A22
+  border-bottom: 1px solid #5B7553;
 }
+
 
 /* All styles below this line relate to the main panel (images) */
 /*                        */
