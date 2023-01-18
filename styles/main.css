@@ -5,12 +5,21 @@
 }
 
 html {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 body {
   background-color: #FFFFFF;
   color: #22162B;
+}
+
+.page-wrapper {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  max-width: 1200px;
+  align-content: center;
 }
 
 a {
@@ -124,7 +133,7 @@ header h3 {
 .blog-title {
   font-size: 1.5em;
   /* border-bottom: 1px grey solid; */
-  padding: 5vw 20vw 5vw 20vw;
+  padding: 3vh;
   color: #6193ad;
   text-align: center;
   letter-spacing: .1em;
@@ -138,7 +147,7 @@ header h3 {
 
 .main-section {
   border-bottom: 1px solid grey;
-  margin: 7vw 0vw 2vw 0vw;
+  margin: 5vh 0vh 2vh 0vh;
   color: #22162B;
   padding: 0vw 4vw 1vw 4vw;
   text-align: justify;
