@@ -100,6 +100,16 @@ a:visited {
   border-bottom: 1px solid #D17A22;
 }
 
+a {
+  color: #5B7553;
+  border-bottom: 1px solid #D17A22;
+}
+
+a:hover {
+  color: #D17A22 !important;
+  border-bottom: 1px solid #5B7553 !important;
+}
+
 /* All styles below this line relate to the main panel (images) */
 /*                        */
 /*                       */
@@ -159,8 +169,11 @@ a:visited {
   letter-spacing: .1em;
 }
 
+#blog-link-section {
+  text-align: center;
+}
+
 .main-section {
-  border-bottom: 1px solid grey;
   margin: 5vh 0vh 2vh 0vh;
   color: #22162B;
   padding: 0vw 12vw 1vw 12vw;
