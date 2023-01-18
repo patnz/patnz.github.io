@@ -164,6 +164,7 @@ header h3 {
   box-shadow: 2px 3px grey;
   height: auto;
   width: 75vw;
+  max-width: 600px;
 }
 
 ul {
