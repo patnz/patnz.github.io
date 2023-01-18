@@ -155,7 +155,7 @@ header h3 {
   line-height: 30px;
 }
 
-.main-section:first-of-type {
+#blog-summary {
   padding: 0vw 9vw 4vw 9vw;
   font-size: 1.2em;
   line-height: 40px;
