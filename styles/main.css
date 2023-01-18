@@ -93,6 +93,8 @@ header h3 {
   border-bottom: 1px solid #5B7553 !important;
 }
 
+
+
 a:visited {
   color: #5B7553;
   border-bottom: 1px solid #D17A22;
@@ -118,9 +120,14 @@ a:visited {
   height: 90%;
   border: 1px solid #5B7553;
 }
+
 .panel-item {
   height: 50vw;
   width: 30%;
+}
+
+.panel-img, a:hover {
+  border-bottom: none !important;
 }
 
 .panel-title {
