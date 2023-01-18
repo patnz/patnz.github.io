@@ -26,9 +26,6 @@ a {
   text-decoration: none;
 }
 
-a:visited {
-  color: inherit;
-}
 
 /* All styles below this line relate to the header */
 /*                        */
@@ -91,11 +88,15 @@ header h3 {
   border-bottom: 1px solid #D17A22;
 }
 
-.nav-item:hover {
+.nav-item:hover, a:hover {
   color: #D17A22 !important;
   border-bottom: 1px solid #5B7553 !important;
 }
 
+a:visited {
+  color: #5B7553;
+  border-bottom: 1px solid #D17A22;
+}
 
 /* All styles below this line relate to the main panel (images) */
 /*                        */
