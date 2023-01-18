@@ -142,7 +142,7 @@ header h3 {
 .blog-title {
   font-size: 1.5em;
   /* border-bottom: 1px grey solid; */
-  padding: 3vh;
+  padding: 5vh 3vh 3vh 3vh;
   color: #6193ad;
   text-align: center;
   letter-spacing: .1em;
