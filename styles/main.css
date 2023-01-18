@@ -11,6 +11,7 @@ html {
 body {
   background-color: #FFFFFF;
   color: #22162B;
+  margin: 0 1vw;
 }
 
 .page-wrapper {
