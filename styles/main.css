@@ -92,8 +92,8 @@ header h3 {
 }
 
 .nav-item:hover {
-  color: #D17A22
-  border-bottom: 1px solid #5B7553;
+  color: #D17A22 !important;
+  border-bottom: 1px solid #5B7553 !important;
 }
 
 
