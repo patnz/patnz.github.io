@@ -65,6 +65,11 @@ header h3 {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+  background-color: #FFFFFF;
+  width: 100%;
 }
 
 /* All styles below this line relate to the nav */
@@ -76,10 +81,13 @@ header h3 {
 .nav-container {
   width: auto;
   height: auto;
-  padding: 5px 5px 50px 5px;
+  padding: 5px 5px 25px 5px;
   display: flex;
   justify-content: center;
   gap: 5vw;
+  position: sticky;
+  top: 200px;
+  background-color: #FFFFFF;
 }
 
 .nav-item, .panel-title {
@@ -88,7 +96,7 @@ header h3 {
 }
 
 .nav-item:hover {
-  font-weight: bold;
+  font-size: 1.05em;
 }
 
 /* All styles below this line relate to the main panel (images) */
