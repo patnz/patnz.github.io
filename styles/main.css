@@ -105,10 +105,7 @@ a:visited {
   border-bottom: 1px solid #D17A22;
 }
 
-a:hover {
-  color: #D17A22 !important;
-  border-bottom: 1px solid #5B7553 !important;
-}
+
 
 /* All styles below this line relate to the main panel (images) */
 /*                        */
