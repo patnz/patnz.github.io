@@ -1,25 +1,23 @@
 # patnz.github.io
 foundations blog
 
-# a short bio about me
-`Born in Dunedin. Lived there until I was about 20. 
-Since then, I have lived in Wellington, Jersey and Wellington again.`
+## what have I done?
+I have thirty years\
+I have lived in Dunedin, Wellington, Jersey and Wellington again\
+I have spent many years working as a picture framer\
+I have travelled all around Europe\
+I have taken a lot of photographs in my time\
+I have been in bands, and make music\
+I have made incredible friends along the way\
 
+## blog overflow
 
+Nothing to see here just yet!
 
-It is up to you to structure your Foundations Blog readme.md and how you would like to format it using Markdown. It can be as much or as little as you would like to publish. Don't get consumed with this task. It's easy to lose hours formatting things, so just do a little bit each week as you update your blog throughout Foundations. Stick to the timebox suggestion.
+## `patnz.github.io` brainstorming area
 
-Some ideas for exploration are:
+Nothing to see here just yet!
 
-A short bio about you.
-Document your learning progress in web development.
-Provide a detailed run-down of your blog features and style choices.
-Share blog planning diagrams and wireframe images.
-Create a table of contents for your blog repo and include short summaries of what each file in the repo is doing.
-Talk about code snippets or coding concepts you enjoyed and feel proud of that are found in your blog repo.
-Outline version notes and what you might have planned for future project versions.
-Make this exploration valuable and meaningful to your learning journey. By doing this challenge, we hope you will:
+## the plan is to add one quote here per day: 
 
-Consolidate your learning by applying things you've learned in a different format.
-Make space for extra exploration, planning and organisation of your ideas.
-Continue to create well-formatted, technical readme.md files for all apps and projects you will work on in the future.
+>"No idea is original, there's nothing new under the sun. It's never what you do but how it's done"
