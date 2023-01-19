@@ -5,10 +5,12 @@ foundations blog
 I have thirty years\
 I have lived in Dunedin, Wellington, Jersey and Wellington again\
 I have spent many years working as a picture framer\
-I have travelled all around Europe\
+I have a green thumb\
+I have climbed a few mountains\
+I have travelled a lot\
 I have taken a lot of photographs in my time\
 I have been in bands, and make music\
-I have made incredible friends along the way\
+I have made incredible friends along the way
 
 ## blog overflow
 
