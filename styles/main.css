@@ -83,7 +83,7 @@ header h3 {
   gap: 5vw;
 }
 
-.nav-item, .panel-title {
+.nav-item {
   color: #5B7553;
   border-bottom: 1px solid #D17A22;
 }
