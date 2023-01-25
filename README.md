@@ -23,3 +23,8 @@ Nothing to see here just yet!
 ## the plan is to add one quote here per day: 
 
 >"No idea is original, there's nothing new under the sun. It's never what you do but how it's done"
+#### -Nasir Jones
+
+>"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid"
+
+#### -Albert Einstein
