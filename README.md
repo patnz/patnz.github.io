@@ -22,9 +22,13 @@ Nothing to see here just yet!
 
 ## the plan is to add one quote here per day: 
 
->"No idea is original, there's nothing new under the sun. It's never what you do but how it's done"
+>"No idea is original, there's nothing new under the sun. It's never what you do but how it's done."
 #### -Nasir Jones
 
->"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid"
+>"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."
 
 #### -Albert Einstein
+
+>"Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."
+
+#### -Malcolm X
