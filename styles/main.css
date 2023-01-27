@@ -210,6 +210,12 @@ ul {
   font-style: italic;
 }
 
+.italic-bold-orange {
+  color: #D17A22;
+  font-weight: bold;
+  font-style: italic;
+}
+
 
 /* Media Queries!          */
 /*                        */
