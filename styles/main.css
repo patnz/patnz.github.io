@@ -176,7 +176,11 @@ a:visited {
   padding: 0vw 12vw 1vw 12vw;
   text-align: justify;
   word-spacing: .2em;
-  line-height: 30px;
+  line-height: 40px;
+}
+
+.main-section p {
+  padding-top: 4vh;
 }
 
 #blog-summary {
