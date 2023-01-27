@@ -32,3 +32,7 @@ Nothing to see here just yet!
 >"Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."
 
 #### -Malcolm X
+
+>"“Orthodoxy means not thinking--not needing to think. Orthodoxy is unconsciousness."
+
+#### -George Orwell
