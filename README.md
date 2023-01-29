@@ -39,3 +39,7 @@ Nothing to see here just yet!
 > ### “Orthodoxy means not thinking--not needing to think. Orthodoxy is unconsciousness."
 
 - George Orwell
+
+> ### "Be alone, that is the secret of invention; be alone, that is when ideas are born."
+
+- Nikola Tesla
