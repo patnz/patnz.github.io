@@ -24,7 +24,7 @@ Nothing to see here just yet!
 
 
 
-> ### "No idea is original, there's nothing new under the sun. It's never what you do but how it's done."
+> ### "No idea's original, there's nothing new under the sun. It's never what you do but how it's done."
 
 - Nasir Jones
 
