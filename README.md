@@ -43,3 +43,7 @@ Nothing to see here just yet!
 > ### "Be alone, that is the secret of invention; be alone, that is when ideas are born."
 
 - Nikola Tesla
+
+> ### "Pinto flores para que no mueran."
+
+- Frida Kahlo
