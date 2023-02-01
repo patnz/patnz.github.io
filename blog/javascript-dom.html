@@ -33,18 +33,57 @@
     <main>
         <div class="blog-title"><p>Tech Blog:</p> <p>JavaScript Fundamentals</p></div>
   
-        <section class="main-section">
-          <h2 class="main-section-title">title title</h2>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
+        <section id="blog-summary" class="main-section">
+          <p>... a little bit of what we have learnt about JavaScript so far ...</p>
         </section>
 
         <section class="main-section">
-          <h2 class="main-section-title">title title</h2>
-          <p></p>
+          <h2 class="main-section-title">So... HTML, CSS and JavaScript are throwing a party at a cool new club called ‘The Browser’ and you're all invited.</h2>
+          <p>HTML is in charge of planning. He’s a bit boring, but he does know everything you might need for a good party - the content. HTML puts together a long list of elements that they think they’ll need for the party - drinks, food, ice, music, lighting, etc. He hands this list over to CSS who is known for her style. She’ll be in charge of putting everything together - the theme of the party, where to put the tables and chairs, decorating the venue, balloons, etc.</p>
+          <p>Once HTML and CSS have done their bit and the party is all set up. JavaScript has a look around and makes sure everything they need is there. If anything has been forgotten, like maybe they are a bit short on seating, JavaScript will spring into action and make sure another set of chairs is brought in. JavaScript or “JS” as his mates call him can be thought of as ‘the life of the party’.</p>
+          <p>Once the party is up and running, JS is responsible for making sure everything is running smoothly. If there are any minor adjustments that need to be made, JS is responsible for that. JS will be running the games and keeping all of the guests happy and entertained. Maybe they run out of ice? JS is on the case! He is on the phone immediately to the shop down the road to see if they can deliver some more. JavaScript is the one that keeps the party pumping all night long.</p>
+        </section>
+
+        
+
+        <section class="main-section">
+          <h2 class="main-section-title">Control Flow: don't sweat the technique</h2>
+          <p>In computer programming, control flow refers to the order in which the code in a program is executed. When we are writing a program in JavaScript, our code will be executed from top to bottom - from the first line to the last. However, we are able to use different kinds of loop statements to repeatedly run sections of code until certain conditions are met.</p>
+          <p>We could think of our code as a garden. Before we start throwing seeds around (i.e. writing our code), we need to decide what we are going to plant and where we are going to plant it (i.e. what statements to include and what order they should be executed in).</p>
+          <p>Say you planted three different rows of vegetables, and each row of veggies was hardier than the next. In this case, we might write an if-else statement that means we check the most vulnerable row first. When the first section of our loop runs, it checks the status of our beloved veggies and whether it needs to be watered. Once the status or condition of the first row of vegetables has been met, the loop then moves on to the next section of our loop and so on. Just like a good vege patch, a successful program requires a good deal of planning and attention to detail. </p>
+        </section>
+
+        <section class="main-section">
+          <h2 class="main-section-title">"The DOM": Not just what your weird cousin Dominic refers to himself as after he has had a few too many</h2>
+
+          <p>The DOM or Document Object Model can be thought of as a family tree:</p>
+          <div class="code-snippet-container"><img class="code-snippet" src="/images/the-dom-tree.jpeg" alt="Picture of The DOM family tree"></div>
+          <ul>
+            <li>At the top of the family tree is the ‘document’ object, which refers to the file which holds all of our code.
+
+            </li>
+            <li>Below that we have our ‘html’ element and our ‘body’ elements, and within them we find all the other descendant elements that build our webpage.
+            </li>
+          </ul>
+          <p>Typically, if we wanted to use CSS to adjust the appearance of our website, we would need to edit our CSS file. If we wanted to add or edit the content of an element, we would need to create that new element in our HTML file. We can think of the DOM as a way labelling every individual element of a website, so that we can use JavaScript to tap into it and make changes without having to open and edit the file itself. It also means that we can call JavaScript functions that will alter the content of the HTML document for each user, creating a dynamic and interactive user experience.</p>
+        </section>
+
+        <section class="main-section">
+          <h2 class="main-section-title">Arrays & Objects? What's the difference?</h2>
+          <p>We can think of an <span class="italic-bold-blue">array</span> as an ordered list of things. I say things, because different data types can be stored within the same array (e.g. strings, numbers, booleans, variables, etc). Each element stored within an array is given an index number, with the first element starting at zero. Arrays are dynamic and can be increased or decreased in length, added to, and manipulated in various ways using JavaScript.</p>
+          <p>Here is an example of how to create an <span class="italic-bold-blue">array</span> :</p>
+          <p>
+            <pre>let arrayOfThings = [123, ‘sausages’, true, myVariable</pre>
+          </p>
+          <p>Knowing that each element in an array has an index number with the first element starting at [0], here is an example of how we could change the value of ‘sausages’ to be ‘hamburgers’ :</p>
+
+          <p><pre>let arrayOfThings[1] = ‘hamburgers’</pre></p>
+          <p>There are all sorts of ways we are able to manipulate arrays using different methods which you can find <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" class="text-link">here</a>.</p>
+        </section>
+
+        <section class="main-section">
+          <h2 class="main-section-title">Ok, so what about Objects?</h2>
+          <p>An <span class="italic-bold-blue">object</span> is not ordered like an array, but instead represents a set of key-value pairs. </p>
           <p></p>
           <p></p>
           <p></p>
