@@ -156,7 +156,7 @@ a:visited {
   /* border-bottom: 1px grey solid; */
   padding: 3vh;
   color: #6193ad;
-  text-align: center;
+  text-align: center !important;
   letter-spacing: .1em;
 }
 
