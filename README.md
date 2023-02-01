@@ -47,3 +47,7 @@ Nothing to see here just yet!
 > ### "Pinto flores para que no mueran."
 
 - Frida Kahlo
+
+> ### "The unexamined life is not worth living."
+
+- Socrates
