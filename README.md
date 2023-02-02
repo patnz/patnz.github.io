@@ -21,37 +21,28 @@ Nothing to see here just yet!
 Nothing to see here just yet!
 
 ## the plan is to add one quote here per day:
-
-
-
+  
+  
 > ### "No idea's original, there's nothing new under the sun. It's never what you do but how it's done."
-
-- Nasir Jones
-
+- Nas
+  
 > ### "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."
-
 - Albert Einstein
-
+  
 > ### "Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."
-
 - Malcolm X
-
+  
 > ### “Orthodoxy means not thinking--not needing to think. Orthodoxy is unconsciousness."
-
 - George Orwell
-
+  
 > ### "Be alone, that is the secret of invention; be alone, that is when ideas are born."
-
 - Nikola Tesla
-
+  
 > ### "Pinto flores para que no mueran."
-
 - Frida Kahlo
-
+  
 > ### "The unexamined life is not worth living."
-
 - Socrates
-
+  
 > ### "Actions have reactions, don't be quick to judge. You may not know the hardships people don't speak of. It's best to step back, and observe with couth. For we all must meet our moment of truth"
-
 - Guru
