@@ -46,3 +46,6 @@ Nothing to see here just yet!
   
 > ### "Actions have reactions, don't be quick to judge. You may not know the hardships people don't speak of. It's best to step back, and observe with couth. For we all must meet our moment of truth"
 - Guru
+
+### "Change in all things is sweet."
+-Aristotle
