@@ -1,0 +1,100 @@
+<html lang="en">
+  <head>
+    <title>pat: problem-solving</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/main.css">
+    <link rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Noto+Sans">
+    
+  <body>
+    <div class="page-wrapper">
+    <header class="header-container">
+   
+      <h1 class="header-text">a work <i>in progress</i></h1>
+      <h4 class="header-text">a place to share my devAcademy journey</h4>
+    </header>
+
+    <nav class="nav-container">
+      <div class="nav-item">
+        <a href="https://patnz.github.io/">home</a>
+      </div>
+
+      <div class="nav-item">
+        <a href="https://patnz.github.io/blog/tech-blogs.html">tech</a>
+      </div>
+      
+      <div class="nav-item">
+        <a href="https://patnz.github.io/blog/core-blogs.html">core</a>
+      </div>
+
+    </nav>
+
+    <main>
+        <div class="blog-title"><p>Problem-solving:</p> <p>Syntax</p></div>
+  
+        <section class="main-section">
+          <h2 class="main-section-title">Problem what's your?</h2>
+          <p>
+            At the beginning of this learning journey, I was putting in the hours. I was 'hitting the books' hard, and I was learning a lot. It is quite fitting that it is called Foundations, because I truly feel as though we are building on top of what we have learnt every day. Unfortunately, I have had a lot of personal-life goings on to contend with in the last two weeks and I couldn't quite keep on top of everything... but I'm turning that all around!
+          </p>
+          <p>
+            Working my way through the JavaScript Kata in Sprint 4, I found myself blocked for hours on the 'Capitaliser' challenge:
+          </p>
+          <p><pre>// This function takes a sentence, which is a string.
+// It needs to .map() over every word in that sentence and Capitalize The First Letter Of Every Word.
+// The function should return the modified sentence as a string.</pre></p>
+            <p>
+              And here I am:
+            </p>
+            <div class="blog-img-div">
+              <img class="blog-img" src="../images/confusion.png">
+            </div>
+            
+        </section>
+
+        <section class="main-section">
+          <h2 class="main-section-title">What did I try and how did it feel?</h2>
+          <p>
+            There are all sorts of problem-solving techniques at our disposal when it comes to writing code. Here are a few of the things I tried along the way:</p>
+          <ul>
+            <li>Psuedocoding (writing out in plain language what steps to take)</li>
+            <li>Trying something (over and over and over)</li>
+            <li>Breaking down the problem into smaller manageable chunks</li>
+            <li>Reading error messages</li>
+            <li>Console-logging everything along the way</li>
+          </ul>
+          <p>After trying to incorporate a number of problem-solving techniques, I felt I was getting close to the end, but the code was still breaking. I knew what methods I needed to use in order to achieve the desired output but I simply could not tell you where I had gone wrong.</p>
+          <p>I felt defeated. I could search my little heart out, and find all of the pieces of the puzzle, but I couldn't tell you how they fit. I felt like I was a million miles away from the right answer, even though I was only missing a bracket or two...</p>
+        </section>
+
+        <section class="main-section">
+          <h2 class="main-section-title">What did I learn?</h2>
+          <p>Here is the code that solved the problem:</p>
+          <p><pre>
+            function capitalize(string) {
+              let newArray = string.split(' ')
+              let capitalizedPoem = newArray
+              .map((x) => x.charAt(0).toUpperCase() + x.substring(1)).join(' ')
+              return capitalizedPoem
+              }
+            </pre></p>
+          <p>The problem was syntax...</p>
+          <p>There is a lot going on here, I’ll admit. I will also admit to having spent hours trying to use a cacophony of methods to create a function that capitalises the first letter of each word in a sentence. It is not because I didn’t know which functions to use. I found them easily enough.</p>
+          <p>What it came down to was the fact that I had been beavering away, learning all that I could. I had been familiarising myself with the syntax of functions and methods. I had a million search results showing me a million examples of how to use certain methods and the inputs and syntax that they require. I couldn’t get it. I was overwhelmed.</p>
+          <p>The most helpful technique for me was to break the code down in to small pieces and console.log, console.log, console.log! Making sure everything was working along the way meant that I could zero in on where my code was breaking.</p>
+          <p>Most importantly I was reminded of the importance of staying engaged with the content. Learning JavaScript is just like learning any other spoken language. As we progress through our studies, we attached all of the incoming information to pieces of the puzzle we have already learnt. Spending even fifteen minutes a day learning means that we encourage that Neuroplasticity we have been talking about. Languages are lost if we don't use them. We need to keep revisiting and engaging with what we have learnt so far.</p>
+        </section>
+
+    </main>
+    
+
+    <footer>
+
+
+    </footer>
+
+    
+  </body>
+</div>
+</html>

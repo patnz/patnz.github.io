@@ -26,6 +26,24 @@ a {
   text-decoration: none;
 }
 
+/* All styles below this line relate to the blog images */
+/*                        */
+/*                       */
+/*                      */
+/*                     */
+
+.blog-img-div {
+  display: flex;
+  justify-content: center;
+}
+
+.blog-img {
+  padding: 20px 0px;
+  object-fit: cover;
+  width: 40vw;
+  height: auto;
+
+}
 
 /* All styles below this line relate to the header */
 /*                        */
@@ -225,7 +243,7 @@ pre {
 }
 
 ul {
-  margin: 2vw 0vw 4vw 0vw;
+  margin: 2vw 0vw 0vw 0vw;
 }
 
 .italic-bold-blue {
@@ -283,6 +301,7 @@ ul {
   height: 90%;
   object-position: bottom 10%;
 }
+
 .panel-item {
   height: 110vw;
   width: 80%;
