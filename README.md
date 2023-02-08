@@ -49,3 +49,6 @@ Nothing to see here just yet!
 
 ### "Be kind, for everyone you meet is fighting a hard battle."
 > Plato
+
+### "A problem is a chance for you to do your best."
+> Duke Ellington
