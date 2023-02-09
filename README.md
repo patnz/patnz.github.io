@@ -52,3 +52,6 @@ Nothing to see here just yet!
 
 ### "A problem is a chance for you to do your best."
 > Duke Ellington
+
+### “Some people feel the rain. Others just get wet.”
+> Bob Marley
