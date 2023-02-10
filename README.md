@@ -55,3 +55,6 @@ Nothing to see here just yet!
 
 ### “Some people feel the rain. Others just get wet.”
 > Bob Marley
+
+### "“You can spend minutes, hours, days, weeks, or even months over-analyzing a situation; trying to put the pieces together, justifying what could've, would've happened... or you can just leave the pieces on the floor and move the fuck on.”
+> Tupac Shakur
