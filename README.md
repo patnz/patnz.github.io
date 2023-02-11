@@ -61,3 +61,6 @@ Nothing to see here just yet!
 
 ### "Girls will be boys and boys will be girls. It's a mixed up, muddled up, shook up world, except for Lola. La-la-la-la-Lola."
 > The Kinks
+
+### "Do anything, but let it produce joy."
+> Walt Whitman
