@@ -46,7 +46,7 @@ a {
 }
 
 .blog-img {
-  padding: 20px 0px;
+  padding: 40px 0px 10px 0px;
   object-fit: cover;
   width: 60vw;
   height: auto;
@@ -193,20 +193,22 @@ a:visited {
 /*                     */
 
 .blog-title {
-  font-size: 1.5em;
+  font-size: 1.7em;
   /* border-bottom: 1px grey solid; */
-  padding: 3vh;
+  margin: 20px 0px;
+  padding: 70px 0px 80px 0px;
   color: #6193ad;
   text-align: center;
   letter-spacing: .1em;
+  border-bottom: 2px solid #f4f4f4;
 }
 
 .main-section-title {
   color: #D17A22;
-  padding-left: 15px;
   letter-spacing: .1em;
   text-align: center;
   font-size: 1.5em;
+  margin: 40px;
 }
 
 h2 {
@@ -222,17 +224,18 @@ h2 {
 }
 
 .main-section {
-  margin: 5vh 0vh 2vh 0vh;
+  margin: 0px 16vw 0px 16vw;
+  padding: 0px 0px 50px 0px;
   color: #22162B;
-  padding: 0vw 12vw 1vw 12vw;
   text-align: justify;
   word-spacing: .2em;
   line-height: 40px;
+  border-bottom: 2px solid #ddd;
 }
 
-.main-section p {
+/* .main-section p {
   padding-top: 4vh;
-}
+} */
 
 footer {
   height: 100px;
