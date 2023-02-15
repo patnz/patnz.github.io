@@ -224,13 +224,13 @@ h2 {
 }
 
 .main-section {
-  margin: 0px 16vw 0px 16vw;
+  margin: 0px 12vw 0px 12vw;
   padding: 0px 0px 50px 0px;
   color: #22162B;
   text-align: justify;
   word-spacing: .2em;
   line-height: 40px;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid #f4f4f4;
 }
 
 /* .main-section p {
