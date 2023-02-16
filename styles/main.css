@@ -139,6 +139,10 @@ a:visited {
   border-bottom: 1px solid #D17A22;
 }
 
+a:link, a:visited {
+  color: #5B7553;
+}
+
 
 
 /* All styles below this line relate to the main panel (images) */
