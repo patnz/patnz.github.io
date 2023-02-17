@@ -64,3 +64,6 @@ Nothing to see here just yet!
 
 ### "Do anything, but let it produce joy."
 > Walt Whitman
+
+### "To invent, you need a good imagination and a pile of junk."
+> Thomas Edison
