@@ -67,3 +67,6 @@ Nothing to see here just yet!
 
 ### "To invent, you need a good imagination and a pile of junk."
 > Thomas Edison
+
+### “You’re mad, bonkers, completely off your head. But I’ll tell you a secret. All the best people are.”
+> Lewis Caroll
