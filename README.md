@@ -70,3 +70,6 @@ Nothing to see here just yet!
 
 ### “You’re mad, bonkers, completely off your head. But I’ll tell you a secret. All the best people are.”
 > Lewis Caroll
+
+### “Everything was beautiful and nothing hurt.”
+> Kurt Vonnegut
