@@ -302,6 +302,21 @@ ul {
   font-style: italic;
 }
 
+/* blog-index-list!         */
+/*                        */
+/*                       */
+/*                      */
+/*                     */
+
+.blog-index-item {
+  border-radius: 2px;
+  line-height: 125px;
+  background-color: #FFFFFF;
+  border: 1px solid #5B7553;
+  box-shadow: 4px 3px #5B7553;
+  width: 100%;
+  height: 125px;
+}
 
 /* Media Queries!          */
 /*                        */
