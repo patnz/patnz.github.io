@@ -44,7 +44,7 @@ Nothing to see here just yet!
 ### "The unexamined life is not worth living."
 > Socrates
   
-### "Actions have reactions, don't be quick to judge. You may not know the hardships people don't speak of. It's best to step back, and observe with couth. For we all must meet our moment of truth"
+### "Actions have reactions, don't be quick to judge. You may not know the hardships people don't speak of. It's best to step back, and observe with couth. For we all must meet our moment of truth."
 > Guru
 
 ### "Be kind, for everyone you meet is fighting a hard battle."
@@ -73,3 +73,6 @@ Nothing to see here just yet!
 
 ### “Everything was beautiful and nothing hurt.”
 > Kurt Vonnegut
+
+### "If you want to get laid, go to college. If you want an education, go to the library."
+> Frank Zappa
