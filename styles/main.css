@@ -313,14 +313,15 @@ ul {
 }
 
 .blog-index-item {
+  font-size: 2.2vw;
   margin-top: 60px;
   border-radius: 2px;
-  line-height: 125px;
+  line-height: 11vw;;
   background-color: hsla(0, 0%, 100%, 1);
   border: 2px solid #5B7553;
   box-shadow: 4px 4px 8px #5B7553;
   width: 100%;
-  height: 125px;
+  height: 11vw;
 }
 
 /* Media Queries!          */
