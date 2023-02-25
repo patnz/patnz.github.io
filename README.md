@@ -76,3 +76,6 @@ Nothing to see here just yet!
 
 ### "If you want to get laid, go to college. If you want an education, go to the library."
 > Frank Zappa
+
+### "Failure is simply the opportunity to begin again, this time more intelligently."
+> Henry Ford
