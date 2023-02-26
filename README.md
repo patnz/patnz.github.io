@@ -79,3 +79,6 @@ Nothing to see here just yet!
 
 ### "Failure is simply the opportunity to begin again, this time more intelligently."
 > Henry Ford
+
+### “When I was young, I believed in three things: Marxism, the redemptive power of cinema, and dynamite. Now I just believe in dynamite.”
+> Sergio Leone
