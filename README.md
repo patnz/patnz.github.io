@@ -82,3 +82,6 @@ Nothing to see here just yet!
 
 ### “When I was young, I believed in three things: Marxism, the redemptive power of cinema, and dynamite. Now I just believe in dynamite.”
 > Sergio Leone
+
+### “All my big mistakes are when I try to second-guess or please an audience. My work is always stronger when I get very selfish about it.”
+> David Bowie
