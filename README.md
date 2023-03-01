@@ -85,3 +85,6 @@ Nothing to see here just yet!
 
 ### “All my big mistakes are when I try to second-guess or please an audience. My work is always stronger when I get very selfish about it.”
 > David Bowie
+
+### “Never trust a computer you can't throw out a window."
+> Steve Wozniak
