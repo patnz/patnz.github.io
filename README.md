@@ -88,3 +88,6 @@ Nothing to see here just yet!
 
 ### “Never trust a computer you can't throw out a window."
 > Steve Wozniak
+
+### "You must never be fearful about what you are doing when it is right."
+> Rosa Parks
