@@ -65,6 +65,9 @@ Nothing to see here just yet!
 ### "Do anything, but let it produce joy."
 > Walt Whitman
 
+### "If it's a good idea, go ahead and do it. It's much easier to apologise than it is to get permission."
+> Grace Hopper
+
 ### "To invent, you need a good imagination and a pile of junk."
 > Thomas Edison
 
