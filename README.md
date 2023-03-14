@@ -94,3 +94,6 @@ Nothing to see here just yet!
 
 ### "You must never be fearful about what you are doing when it is right."
 > Rosa Parks
+
+### "You don't make up for your sins in church. You do it in the streets. You do it at home. The rest is bullshit and you know it."
+> Martin Scorsese (Mean Streets)
