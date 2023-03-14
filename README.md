@@ -97,3 +97,6 @@ Nothing to see here just yet!
 
 ### "You don't make up for your sins in church. You do it in the streets. You do it at home. The rest is bullshit and you know it."
 > Martin Scorsese (Mean Streets)
+
+### “No one can make you feel inferior without your consent.”
+> Eleanor Roosevelt
